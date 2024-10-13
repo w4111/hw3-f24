@@ -15,8 +15,7 @@ walk through adding llm as UDF and using it to classify some data [llm lib](http
 
 # 1. SQL, the sequel
 
-* [Click here to open the HW3 notebook in google colab](https://drive.google.com/file/d/19405dMQzrKoHMnasybrIeYyX2I_JefRD/view?usp=sharing)
-* Click "ctrl + s" and save a copy to your own Google Drive
+* Please use the hw3.ipynb in this repository, download and open it in your own Google Drive
 * Follow the instructions in the notebook to complete and submit Part 1
 * A graphical description of what reduction in variance <a href="HW3-diagram.png"><img src="HW3-diagram.png"/></a>
 
