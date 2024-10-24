@@ -6,7 +6,7 @@
 
 * Value: 3.75% of your grade
 
-* Edit Log: Change question 2.4 from 3NF to BCNF
+* Edit Log: Change question 2.4 from 3NF to BCNF, Update Q1 from variance to SE (squared error)
 
 In this assignment it's time to get real! You'll first flex your SQL muscles and perform analyses similar to HW2's by writing SQL and reflecting on the experience. You will then perform some normalization.
 
