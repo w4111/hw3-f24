@@ -6,6 +6,8 @@
 
 * Value: 3.75% of your grade
 
+* Edit Log: Change question 2.4 from 3NF to BCNF
+
 In this assignment it's time to get real! You'll first flex your SQL muscles and perform analyses similar to HW2's by writing SQL and reflecting on the experience. You will then perform some normalization.
 
 # TODO
@@ -87,7 +89,7 @@ Suppose we have the functional dependencies:
 
 (2 points) **Q2.3**: What are the keys in 'iowa'?
 
-(3 points) **Q2.4**: Decompose `iowa` into 3NF (Third Normal Form).  Write a few sentences to justify
+(3 points) **Q2.4**: Decompose `iowa` into BCNF(Boyce-Codd Normal Form).  Write a few sentences to justify
   why you chose the tables you did.  
 
 (2 points) **Q2.5**: Is your schema redundancy and anomaly free?  Justify your answer in
